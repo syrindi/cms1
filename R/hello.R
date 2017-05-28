@@ -1,5 +1,7 @@
 #' @export
 #' @return value
+#' @LazyData: true
+
 
 hellocms <- function() {
   #test123
